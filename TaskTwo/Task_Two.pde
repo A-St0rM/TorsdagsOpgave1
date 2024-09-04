@@ -1,0 +1,10 @@
+String teacherName ="Tess Løvgreen";
+int daysInYear = 365;
+String city ="København";
+boolean state = true;
+int multiply = 60*24;
+double numbers = 22.12;
+println("Hej, jeg heddder "+ teacherName);
+boolean IsUserReal = false;
+double addition = 2.2 + 33;
+char letter = 'S';
