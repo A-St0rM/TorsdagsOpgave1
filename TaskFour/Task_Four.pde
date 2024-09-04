@@ -13,7 +13,8 @@ void setup(){
   println("adition: "+ addition );
   println("divide: "+divide );
   println("Welcome: "+ welcome );
-  
+
+//tilføjelser
   address = "Tagensvej";
   addition = 10+10;
   divide = 10/10;
@@ -22,8 +23,6 @@ void setup(){
   println("adition: "+ addition );
   println("divide: "+divide );
   println("Welcome: "+ welcome );
-  
-//Med tilføjelser
 
 
 //operatorer med 1
