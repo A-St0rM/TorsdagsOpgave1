@@ -15,10 +15,10 @@ void setup(){
   println("Welcome: "+ welcome );
 
 //tilføjelser
-  address = "Tagensvej";
-  addition = 10+10;
-  divide = 10/10;
-  welcome = "Welcome once again!";
+  address = address + ", 10";
+  addition = addition + 5; 
+  divide = divide / 2;  
+  welcome = welcome + " Welcome once again!";
    println("Adresse: "+address );
   println("adition: "+ addition );
   println("divide: "+divide );
